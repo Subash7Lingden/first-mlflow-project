@@ -9,6 +9,7 @@ ipykernel
 xgboost
 pickle
 dill
+catboost
 
 # dev requirements -
 
