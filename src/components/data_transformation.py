@@ -129,4 +129,4 @@ class DataTransformation:
 if __name__=="__main__":
     obj=DataTransformation()
 
-    obj.initiate_data_transformation()
+    obj.initialize_data_transformation()
