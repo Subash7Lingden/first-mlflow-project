@@ -8,9 +8,8 @@ dvc
 ipykernel
 xgboost
 catboost
-pickle
 dill
-
+mlflow==2.2.2
 # dev requirements -
 
 pytest==7.1.3

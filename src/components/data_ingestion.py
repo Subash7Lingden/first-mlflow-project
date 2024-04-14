@@ -72,5 +72,8 @@ if __name__=="__main__":
     modeltrainer = ModelTrainer()
     print(modeltrainer.initate_model_training(train_arr, test_arr))
 
+   
+
+
 
 
